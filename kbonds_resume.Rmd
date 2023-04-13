@@ -13,7 +13,7 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
-![Kevin Bonds](line_art.jpeg){width=70%}
+![Kevin Bonds](line_art.jpeg){width=45%}
 
 
 Contact Info {#contact}
@@ -63,27 +63,6 @@ analysis, modeling, and data science
 platform engineering, I have a proven track
 record of delivering high-quality solutions to
 complex business challenges.
-
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-### Middle Tennessee State University
-
-B.S Liberal Studies (Aerospace)
-
-Murfreesboro, TN
-
-2011
-
-
-### General Assembly
-
-Machine Learning/Data Science Certification
-
-San Francisco, CA
-
-2017
 
 
 
@@ -181,4 +160,24 @@ for a liquid bismuth-fed hall thruster
 -Created a fiber-optic based, IR temperature sensing system. Analyzed and
 reported on data and control mechanisms
 
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Middle Tennessee State University
+
+B.S Liberal Studies (Aerospace)
+
+Murfreesboro, TN
+
+2011
+
+
+### General Assembly
+
+Machine Learning/Data Science Certification
+
+San Francisco, CA
+
+2017
 
